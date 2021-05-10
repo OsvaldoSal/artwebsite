@@ -4,6 +4,10 @@
 	License: Creative Commons Attribution 3.0 Unported
 	License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+image {
+    height: 640;
+    width: 480;
+}
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -21,6 +25,7 @@ h6 {
     margin: 0;
     padding: 0;
 }
+
 
 ul {
     margin: 0;
