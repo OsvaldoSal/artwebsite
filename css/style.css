@@ -33,7 +33,7 @@ a:hover {
 }
 
 .banner {
-    background: url('../images/banner1.jpg') no-repeat 0px 0px;
+    background: url('../images/createart.jpg') no-repeat 0px 0px;
     background-size: cover;
     height: 100vh;
     background-attachment: fixed;
@@ -660,8 +660,6 @@ i.fab.fa-twitter:hover {
     transition: all 0.4s;
 }
 
-}
-
 /*-- stats --*/
 
 .stats_info p {
@@ -1056,7 +1054,7 @@ footer .w3-social a {
 /*- Typography page -*/
 
 .inner-banner {
-    background: url('../images/banner1.jpg') no-repeat center;
+    background: url('../images/createart.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     min-height: 300px;
